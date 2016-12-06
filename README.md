@@ -1,0 +1,2 @@
+# delayout
+delay stdout
